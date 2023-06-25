@@ -1,4 +1,4 @@
-# Digital-Banking-Web (Partie Angular)
+# Digital-Banking-Web (Partie Angular) (Encadrant : Professeur Mohamed YOUSSFI)
 
 <h4>La couche Frontend (Vue) a pour rôle de concevoir l'interface utilisateur de l'application. Elle utilise le framework Angular pour créer une interface réactive et dynamique. Les composants Angular de cette couche interagissent avec la couche Backend afin d'obtenir les données nécessaires et effectuer les opérations requises.
 </h4>
